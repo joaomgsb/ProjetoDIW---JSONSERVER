@@ -2,7 +2,7 @@
   "colegas": [
     {
       "id": 1,
-      "fotoUrl": "./img/Marco.jpg",
+      "fotoUrl": "img/Marco.jpg",
       "nome": "Marco Martinelli",
       "githubUrl": "https://github.com/marcomartinelli2"
     },

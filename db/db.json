@@ -2,25 +2,25 @@
   "colegas": [
     {
       "id": 1,
-      "fotoUrl": "img/Marco.jpg",
+      "fotoUrl": "/public/assets/img/Marco.jpg",
       "nome": "Marco Martinelli",
       "githubUrl": "https://github.com/marcomartinelli2"
     },
     {
       "id": 2,
-      "fotoUrl": "img/Luiz.jpg",
+      "fotoUrl": "/public/assets/img/Luiz.jpg",
       "nome": "Luiz",
       "githubUrl": "https://github.com/LuizinDoTI"
     },
     {
       "id": 3,
-      "fotoUrl": "img/stefano.jpg",
+      "fotoUrl": "/public/assets/img/stefano.jpg",
       "nome": "Stefano Gennaro",
       "githubUrl": "http://github.com/stefano"
     },
     {
       "id": 4,
-      "fotoUrl": "img/vitor.jpg",
+      "fotoUrl": "/public/assets/img/vitor.jpg",
       "nome": "Vitor Gabriel",
       "githubUrl": "https://github.com/zVitox39"
     }
@@ -50,19 +50,19 @@
       "id": 1,
       "titulo": "Codigo C#",
       "descricao": "Um pequeno código em C#",
-      "urlImagem": "img/code_review.jpeg"
+      "urlImagem": "/public/assets/img/code_review.jpeg"
     },
     {
       "id": 2,
       "titulo": "Codigo JavaScript",
       "descricao": "Um pequeno código em JavaScript",
-      "urlImagem": "img/code_javascript.jpg"
+      "urlImagem": "/public/assets/img/code_javascript.jpg"
     },
     {
       "id": 3,
       "titulo": "O que é GIT e GitHub?",
       "descricao": "Conceitos importantes sobre GitHub",
-      "urlImagem": "img/code_python.png",
+      "urlImagem": "/public/assets/img/code_python.png",
       "urlVideo": "https://www.youtube.com/embed/DqTITcMq68k"
     },
     {
@@ -75,7 +75,7 @@
       "id": 5,
       "titulo": "Codigo em Python",
       "descricao": "Um pequeno código em Python",
-      "urlImagem": "img/code_python.png"
+      "urlImagem": "/public/assets/img/code_python.png"
     }
   ]
 }
